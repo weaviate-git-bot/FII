@@ -4,3 +4,9 @@
 [submodule "anul2/ComputerNetworks/TrafficMonitoring"]
 	path = anul2/ComputerNetworks/TrafficMonitoring
 	url = git@github.com:zaBogdan/TrafficMonitoring.git
+[submodule "anul2/AdvancedProgramming/JavaAcademy"]
+	path = anul2/AdvancedProgramming/JavaAcademy
+	url = git@github.com:zaBogdan/JavaAcademy.git
+[submodule "anul2/TW-2022"]
+	path = anul2/TW-2022
+	url = git@github.com:zaBogdan/TW-2022.git
