@@ -1,0 +1,6 @@
+[submodule "anul2/ComputerNetworks/3WayComunication"]
+	path = anul2/ComputerNetworks/3WayComunication
+	url = git@github.com:zaBogdan/3WayComunication.git
+[submodule "anul2/ComputerNetworks/TrafficMonitoring"]
+	path = anul2/ComputerNetworks/TrafficMonitoring
+	url = git@github.com:zaBogdan/TrafficMonitoring.git
