@@ -1,0 +1,15 @@
+{
+    "board_fen": "rqbpkbnr/1p3ppp/3p4/3P4/3N4/P7/1PP2PPP/R1BQ1RK1 b kq - 1 11",
+    "moves": [
+        "b1c3 c7c5",
+        "f1a6 b8a6",
+        "g1f3 d7d6",
+        "d2d4 c5d4",
+        "f3d4 d8b8",
+        "e1g1 e7d8",
+        "c3d5 a6c7",
+        "a2a3 c7d5"
+    ],
+    "total_moves": 8,
+    "error": "push() expects move to be pseudo-legal, but got e7f6 in rqbpkbnr/1p3ppp/3p4/3P4/3N4/P7/1PP2PPP/R1BQ1RK1"
+}

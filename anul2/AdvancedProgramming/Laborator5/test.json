@@ -1,0 +1,19 @@
+{
+  "name" : "Bogdan's Biography",
+  "items" : [ {
+    "type" : "Book",
+    "id" : "o13-o52G4yEYzF6dkSg0H",
+    "title" : "The Art of Computer Programming",
+    "location" : "d:/books/programming/tacp.ps",
+    "year" : 1967,
+    "author" : "Donald E. Knuth",
+    "type" : "book"
+  }, {
+    "type" : "Article",
+    "id" : "MZFDZHzfkP9EsVdCkg5Dw",
+    "title" : "The Java Language Specification",
+    "location" : "https://docs.oracle.com/javase/specs/jls/se17/html/index.html",
+    "year" : 2021,
+    "author" : "James Gosling & others"
+  } ]
+}

@@ -1,0 +1,27 @@
+{
+    "board_fen": "1q2kbr1/1p3p1p/2b1p3/8/5P2/4B3/PPP1p1qP/R3R1K1 w - - 0 22",
+    "moves": [
+        "b1c3 c7c5",
+        "f1a6 b8a6",
+        "g1f3 d7d6",
+        "d2d4 c5d4",
+        "f3d4 d8b8",
+        "e1g1 d6e5",
+        "c1e3 e5d4",
+        "d1d4 a6b4",
+        "d4b4 g8f6",
+        "c3d5 e7e6",
+        "d5f6 g7f6",
+        "b4b5 c8d7",
+        "b5c4 d7c6",
+        "f1e1 a8a4",
+        "c4c3 a4e4",
+        "c3f6 h8g8",
+        "f2f3 e4c4",
+        "f3f4 g2e2",
+        "f6g5 c4g4",
+        "g5g4 g4g2"
+    ],
+    "total_moves": 20,
+    "error": "None"
+}

@@ -1,0 +1,18 @@
+{
+    "board_fen": "r1b1k1nr/1p2pp1p/3q1Qp1/3Nb3/4P3/8/PPP2PPP/4RRK1 b kq - 4 14",
+    "moves": [
+        "b1c3 c7c5",
+        "f1a6 b8a6",
+        "g1f3 d7d6",
+        "d2d4 c5d4",
+        "f3d4 a6c7",
+        "e1g1 g7g6",
+        "c1f4 f8g7",
+        "f4d6 d8d6",
+        "d1f3 c7d5",
+        "c3d5 g7d4",
+        "a1e1 d4e5"
+    ],
+    "total_moves": 11,
+    "error": "push() expects move to be pseudo-legal, but got c4c5 in r1b1k1nr/1p2pp1p/3q1Qp1/3Nb3/4P3/8/PPP2PPP/4RRK1"
+}

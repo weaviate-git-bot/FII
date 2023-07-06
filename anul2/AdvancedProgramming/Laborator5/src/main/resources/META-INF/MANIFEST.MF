@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: freemarker-2.3.31.jar jackson-annotations-2.13.2.jar jackson
+ -core-2.13.2.jar jnanoid-2.0.0.jar jackson-databind-2.13.2.jar
+

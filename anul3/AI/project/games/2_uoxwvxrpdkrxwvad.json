@@ -1,0 +1,9 @@
+{
+    "board_fen": "r1b1kbnr/1ppp1ppp/P7/4p3/4P3/2N5/P1PP1PP1/R1BQK1N1 w Qkq - 0 7",
+    "moves": [
+        "f1a6 b8a6",
+        "b1c3 e7e6"
+    ],
+    "total_moves": 2,
+    "error": "None"
+}

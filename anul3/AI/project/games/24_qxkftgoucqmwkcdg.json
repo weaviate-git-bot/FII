@@ -1,0 +1,31 @@
+{
+    "board_fen": "3r1kn1/4npp1/8/2r5/8/PRP2P1P/2P2P2/R5K1 b - - 1 27",
+    "moves": [
+        "b1c3 c7c5",
+        "f1a6 b8a6",
+        "g1f3 d7d6",
+        "d2d4 c5d4",
+        "f3d4 d8b8",
+        "e1g1 b8c8",
+        "c1f4 e7e5",
+        "f4g3 e5d4",
+        "g3d6 d4c3",
+        "d6f8 e8f8",
+        "b2c3 h7h5",
+        "d1f3 h8h6",
+        "f1e1 h6f6",
+        "f3h5 f6h6",
+        "h5f3 h6f6",
+        "f3h3 c8c6",
+        "e4e5 f6e6",
+        "h3f3 c6f3",
+        "g2f3 a6b8",
+        "e1b1 e6e5",
+        "b1b7 b8c6",
+        "b7b6 c6e7",
+        "b6b3 e5c5",
+        "a2a3 a8d8"
+    ],
+    "total_moves": 24,
+    "error": "push() expects move to be pseudo-legal, but got d6c4 in 3r1kn1/4npp1/8/2r5/8/PRP2P1P/2P2P2/R5K1"
+}

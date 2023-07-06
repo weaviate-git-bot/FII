@@ -1,0 +1,6 @@
+[Epoch 0] Computed Error: 2.348705831839733
+
+
+-=-=-=-=-=-=-=-=-=-=   Accuracy   -=-=-=-=-=-=-=-=-=-=
+Algorithm at cross validation accuracy is: 9.1
+Algorithm at testing is: 8.77

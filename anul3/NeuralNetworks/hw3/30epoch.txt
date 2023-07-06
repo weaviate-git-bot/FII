@@ -1,0 +1,38 @@
+╰─$ python3 main.py                                                                                                                                   1 ↵
+[Epoch 0] Computed Error: 0.06988392222377506
+[Epoch 1] Computed Error: 0.03943846607591187
+[Epoch 2] Computed Error: 0.030988112757517488
+[Epoch 3] Computed Error: 0.027014927099048108
+[Epoch 4] Computed Error: 0.0245642316245794
+[Epoch 5] Computed Error: 0.022844803048729746
+[Epoch 6] Computed Error: 0.021539444144893963
+[Epoch 7] Computed Error: 0.02049490412142351
+[Epoch 8] Computed Error: 0.019627862023038945
+[Epoch 9] Computed Error: 0.018888833204999404
+[Epoch 10] Computed Error: 0.018246327919310325
+[Epoch 11] Computed Error: 0.017679161864335626
+[Epoch 12] Computed Error: 0.017172413953292134
+[Epoch 13] Computed Error: 0.01671516573287435
+[Epoch 14] Computed Error: 0.016299174786695875
+[Epoch 15] Computed Error: 0.015918062297712473
+[Epoch 16] Computed Error: 0.015566792793816158
+[Epoch 17] Computed Error: 0.015241325460966381
+[Epoch 18] Computed Error: 0.014938371262224389
+[Epoch 19] Computed Error: 0.014655219267582745
+[Epoch 20] Computed Error: 0.014389610444410068
+[Epoch 21] Computed Error: 0.014139644754610471
+[Epoch 22] Computed Error: 0.013903711679542543
+[Epoch 23] Computed Error: 0.01368043705331047
+[Epoch 24] Computed Error: 0.013468641100552752
+[Epoch 25] Computed Error: 0.013267304222612868
+[Epoch 26] Computed Error: 0.013075538494028614
+[Epoch 27] Computed Error: 0.012892563928446081
+[Epoch 28] Computed Error: 0.012717689172289178
+[Epoch 29] Computed Error: 0.01255029636024773
+(array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       ...,
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.]], dtype=float32), array([3, 8, 6, ..., 5, 6, 8]))

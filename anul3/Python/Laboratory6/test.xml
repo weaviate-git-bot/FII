@@ -1,0 +1,8 @@
+<root>
+  <hello>
+      <foo name="url-form">bar</foo>
+      <a class="url">1</a>
+      <span data-id="item">2</span>
+      <alloha-world name="url-form" class="url" data-id="item">3</alloha-world>
+    </hello>
+</root>

@@ -1,0 +1,12 @@
+**.env
+**.ini
+**__pycache__
+**.vscode
+**env
+**.ini
+!**/config/example.ini
+**.log
+**node_modules
+**dist
+**.next
+**.DS_Store

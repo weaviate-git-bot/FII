@@ -1,0 +1,10 @@
+{
+    "board_fen": "1n1qkb2/3pnpB1/8/8/8/5b2/R1P2K2/7R w - - 0 15",
+    "moves": [
+        "b1c3 c7c5",
+        "f1a6 d2d4",
+        "g1f3 c3d5"
+    ],
+    "total_moves": 3,
+    "error": "None"
+}

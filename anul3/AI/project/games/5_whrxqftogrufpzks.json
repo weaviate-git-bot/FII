@@ -1,0 +1,12 @@
+{
+    "board_fen": "r1bqkbnr/pppppppp/2n5/8/4P3/1PNB4/1bPP1PPP/7R b - - 0 7",
+    "moves": [
+        "d1f3 b8c6",
+        "b1c3 f3d3",
+        "f1d3 b2b3",
+        "a2b3 c1b2",
+        "a1b1 e1g1"
+    ],
+    "total_moves": 5,
+    "error": "engine process died unexpectedly (exit code: -11)"
+}
